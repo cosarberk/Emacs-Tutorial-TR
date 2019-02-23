@@ -8,7 +8,7 @@ en basit haliyle;</br>
 /usr/share/emacs/26.1/etc/tutorial dizinine gidiniz.</br>
 NOT:21.6 klasör ismi sizde Emacs'ın sürümüne göre farklılık gösterebilir.</br>
 klasör içindeki tutorial dosyasını istediğiniz dizine yedekleyin. </br>
-indirmiş olduğunuz tutorialTR dosyasını açıp içindeki yazıların tamamını kopyalayın.</br>
+indirmiş olduğunuz emacs_tutorial_TR.txt dosyasını açıp içindeki yazıların tamamını kopyalayın.</br>
 tutorial klasöründeki tutorial dosyasını text editör ile açıp içindeki yazıları silin</br>
 ve kopyalamış olduğunuz türkçe yazıyı içine yapıştırıp kaydetip çıkın.</br>
 
