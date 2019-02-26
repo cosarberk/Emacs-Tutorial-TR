@@ -3,6 +3,9 @@ Emacs tutorial türkçe dökümanı</br>
 Ali Çehreli'nin ( <acehreli@yahoo.com>, 2006 ) yapmış olduğu Emacs tutorial türkçe çeviriye</br>
 http://acehreli.org/TUTORIAL linkinden ulaşamayanlar veya bulamayanlar için ;</br>
 
+**www.neuroneyes.com** </br>
+**my website command :** Bdata -o -i=10
+
 **Kullanımı:**</br>
 en basit haliyle;</br>
 /usr/share/emacs/26.1/etc/tutorial dizinine gidiniz.</br>
